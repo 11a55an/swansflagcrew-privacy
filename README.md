@@ -100,6 +100,6 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [support@example.com](mailto:support@example.com).
+If you have any questions about this Privacy Policy, please contact us at [info@mrflag.com](mailto:info@mrflag.com).
 
 **Effective Date:** [01-08-2024]
